@@ -1,2 +1,1 @@
-# php-samples
-Google Bugbounty POC
+# Google Bugbounty POC
